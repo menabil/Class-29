@@ -1,4 +1,4 @@
-// alert("Check out You are safe");
+alert("Check out You are safe");
 console.log("Yes you are");
 
 var pu = "What if";
